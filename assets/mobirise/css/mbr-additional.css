@@ -2955,8 +2955,13 @@ section.lazy-placeholder:after {
 .cid-rWwSIjngSD .dropdown-item:hover {
   color: #0f7699 !important;
 }
+.cid-rWNcLewOdu {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/klv-talk-960x540.jpeg");
+}
 .cid-rWnJadfisv {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
