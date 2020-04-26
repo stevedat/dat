@@ -51,7 +51,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 398,
+    "uniqCompNum": 401,
     "versionPublish": "5.0.3",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/0237c45fb5571dfb63b75d1103ed745d-fire-icon-svg-by-vexels-128x128.png",
@@ -784,7 +784,7 @@
             }
           },
           "_name": "design-block",
-          "_customHTML": "<section>\n  \n    <mbr-parameters>\n      <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"color\" title=\"Top Color\" name=\"topcolor\" value=\"#767676\">\n      <input type=\"color\" title=\"Bottom Color\" name=\"bottomcolor\" value=\"#000000\">\n      <select title=\"Shape\" name=\"shape\">\n        <option value=\"1\" selected>Shape 1</option>\n        <option value=\"2\">Shape 2</option>\n      </select>\n      <!-- End block parameters -->\n    </mbr-parameters>\n\n\t<svg mbr-if=\"shape == 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1185 248\">\n      <circle cx=\"76\" cy=\"121.1\" r=\"20\" class=\"top\"></circle>\n      <circle cx=\"870\" cy=\"201.1\" r=\"11\" class=\"top\"></circle>\n      <circle cx=\"814.5\" cy=\"165.6\" r=\"24.5\" class=\"top\"></circle>\n      <path d=\"M0 0v17.7c22.7 14.8 53 31.9 90.7 51.5 150.8 78 322 116.6 424.8 69.3 102.9-47.4 138-69.3 210.8-69.3s118.3 48.6 219.5 38.3 76.3-59.3 188.7-59.3c18.9 0 35.5 2.6 50.5 6.8V0H0z\" class=\"top\"></path>\n  \t</svg>\n\n\t<svg mbr-if=\"shape == 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1185 248\">\n      <path d=\"M50.5 199.8c112.4 0 87.5-49 188.7-59.3s146.7 38.3 219.5 38.3 107.9-21.9 210.8-69.3c102.8-47.3 274-8.7 424.8 69.3 37.7 19.5 68 36.7 90.7 51.5V0H0v193C15 197.2 31.6 199.8 50.5 199.8zM1109 106.9c11 0 20 9 20 20 0 11-9 20-20 20s-20-9-20-20C1089 115.9 1098 106.9 1109 106.9zM370.5 57.9c13.5 0 24.5 11 24.5 24.5 0 13.5-11 24.5-24.5 24.5S346 95.9 346 82.4C346 68.9 357 57.9 370.5 57.9zM315 35.9c6.1 0 11 4.9 11 11s-4.9 11-11 11 -11-4.9-11-11S308.9 35.9 315 35.9z\" class=\"top\"></path>\n  \t</svg>\n    [JS_CODE_0]\n<div class=\"elfsight-app-63e2a8f6-ba33-47b4-82ad-f1cc1710c4bc\"></div>\n\n    [JS_CODE_1]\n<div class=\"elfsight-app-5c0500c3-b066-4042-a501-3a94f52a8196\"></div>\n\n</section>",
+          "_customHTML": "<section>\n  \n    <mbr-parameters>\n      <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"color\" title=\"Top Color\" name=\"topcolor\" value=\"#767676\">\n      <input type=\"color\" title=\"Bottom Color\" name=\"bottomcolor\" value=\"#efefef\">\n      <select title=\"Shape\" name=\"shape\">\n        <option value=\"1\">Shape 1</option>\n        <option value=\"2\" selected>Shape 2</option>\n      </select>\n      <!-- End block parameters -->\n    </mbr-parameters>\n\n\t<svg mbr-if=\"shape == 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1185 248\">\n      <circle cx=\"76\" cy=\"121.1\" r=\"20\" class=\"top\"></circle>\n      <circle cx=\"870\" cy=\"201.1\" r=\"11\" class=\"top\"></circle>\n      <circle cx=\"814.5\" cy=\"165.6\" r=\"24.5\" class=\"top\"></circle>\n      <path d=\"M0 0v17.7c22.7 14.8 53 31.9 90.7 51.5 150.8 78 322 116.6 424.8 69.3 102.9-47.4 138-69.3 210.8-69.3s118.3 48.6 219.5 38.3 76.3-59.3 188.7-59.3c18.9 0 35.5 2.6 50.5 6.8V0H0z\" class=\"top\"></path>\n  \t</svg>\n\n\t<svg mbr-if=\"shape == 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1185 248\">\n      <path d=\"M50.5 199.8c112.4 0 87.5-49 188.7-59.3s146.7 38.3 219.5 38.3 107.9-21.9 210.8-69.3c102.8-47.3 274-8.7 424.8 69.3 37.7 19.5 68 36.7 90.7 51.5V0H0v193C15 197.2 31.6 199.8 50.5 199.8zM1109 106.9c11 0 20 9 20 20 0 11-9 20-20 20s-20-9-20-20C1089 115.9 1098 106.9 1109 106.9zM370.5 57.9c13.5 0 24.5 11 24.5 24.5 0 13.5-11 24.5-24.5 24.5S346 95.9 346 82.4C346 68.9 357 57.9 370.5 57.9zM315 35.9c6.1 0 11 4.9 11 11s-4.9 11-11 11 -11-4.9-11-11S308.9 35.9 315 35.9z\" class=\"top\"></path>\n  \t</svg>\n    [JS_CODE_0]\n<div class=\"elfsight-app-63e2a8f6-ba33-47b4-82ad-f1cc1710c4bc\"></div>\n\n    [JS_CODE_1]\n<div class=\"elfsight-app-5c0500c3-b066-4042-a501-3a94f52a8196\"></div>\n\n</section>",
           "_cid": "LbLHyYiTFd",
           "_anchor": "design-block-LbLHyYiTFd",
           "_PHPplaceholders": [],
@@ -792,6 +792,52 @@
             "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>",
             "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>"
           ],
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_params": {
+            "HTMLCode": "<iframe src=\"https://www.jigsawplanet.com/?rc=play&amp;pid=1de89f5735c8&amp;view=iframe\" style=\"width:100%;height:600px\" frameborder=0 allowfullscreen></iframe>",
+            "hideOnPublish": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "HTMLCode": "<iframe src=\"https://www.jigsawplanet.com/?rc=play&amp;pid=1de89f5735c8&amp;view=iframe\" style=\"width:100%;height:600px\" frameborder=0 allowfullscreen></iframe>",
+          "alias": "witsec-custom-html",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-custom-html-block",
+          "_anchor": "witsec-custom-html-block-b4"
+        },
+        {
+          "_name": "design-block",
+          "_styles": {
+            "background-color": "@bottomcolor",
+            ".top": {
+              "fill": "@topcolor"
+            }
+          },
+          "_customHTML": "<section>\n  \n    <mbr-parameters>\n      <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"color\" title=\"Top Color\" name=\"topcolor\" value=\"#efefef\">\n      <input type=\"color\" title=\"Bottom Color\" name=\"bottomcolor\" value=\"#000000\">\n      <select title=\"Shape\" name=\"shape\">\n        <option value=\"1\" selected>Shape 1</option>\n        <option value=\"2\">Shape 2</option>\n      </select>\n      <!-- End block parameters -->\n    </mbr-parameters>\n\n\t<svg mbr-if=\"shape == 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1185 248\">\n      <circle cx=\"76\" cy=\"121.1\" r=\"20\" class=\"top\"></circle>\n      <circle cx=\"870\" cy=\"201.1\" r=\"11\" class=\"top\"></circle>\n      <circle cx=\"814.5\" cy=\"165.6\" r=\"24.5\" class=\"top\"></circle>\n      <path d=\"M0 0v17.7c22.7 14.8 53 31.9 90.7 51.5 150.8 78 322 116.6 424.8 69.3 102.9-47.4 138-69.3 210.8-69.3s118.3 48.6 219.5 38.3 76.3-59.3 188.7-59.3c18.9 0 35.5 2.6 50.5 6.8V0H0z\" class=\"top\"></path>\n  \t</svg>\n\n\t<svg mbr-if=\"shape == 2\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1185 248\">\n      <path d=\"M50.5 199.8c112.4 0 87.5-49 188.7-59.3s146.7 38.3 219.5 38.3 107.9-21.9 210.8-69.3c102.8-47.3 274-8.7 424.8 69.3 37.7 19.5 68 36.7 90.7 51.5V0H0v193C15 197.2 31.6 199.8 50.5 199.8zM1109 106.9c11 0 20 9 20 20 0 11-9 20-20 20s-20-9-20-20C1089 115.9 1098 106.9 1109 106.9zM370.5 57.9c13.5 0 24.5 11 24.5 24.5 0 13.5-11 24.5-24.5 24.5S346 95.9 346 82.4C346 68.9 357 57.9 370.5 57.9zM315 35.9c6.1 0 11 4.9 11 11s-4.9 11-11 11 -11-4.9-11-11S308.9 35.9 315 35.9z\" class=\"top\"></path>\n  \t</svg>\n    [JS_CODE_0]\n<div class=\"elfsight-app-63e2a8f6-ba33-47b4-82ad-f1cc1710c4bc\"></div>\n\n    [JS_CODE_1]\n<div class=\"elfsight-app-5c0500c3-b066-4042-a501-3a94f52a8196\"></div>\n\n</section>",
+          "_JSplaceholders": [
+            "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>",
+            "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>"
+          ],
+          "_PHPplaceholders": [],
+          "_anchor": "design-block-b3",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rXgJnavVJA",
           "_protectedParams": [],
           "_global": false,
           "_once": false,

@@ -1071,10 +1071,16 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-LbLHyYiTFd {
-  background-color: #000000;
+  background-color: #efefef;
 }
 .cid-LbLHyYiTFd .top {
   fill: #767676;
+}
+.cid-rXgJnavVJA {
+  background-color: #000000;
+}
+.cid-rXgJnavVJA .top {
+  fill: #efefef;
 }
 .cid-rWwSIjngSD .navbar {
   padding: .5rem 0;
