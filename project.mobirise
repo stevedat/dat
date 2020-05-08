@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dat",
-    "currentPage": "index.html",
+    "currentPage": "Steve-Jobs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 474,
+    "uniqCompNum": 483,
     "versionPublish": "5.0.3",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/0237c45fb5571dfb63b75d1103ed745d-fire-icon-svg-by-vexels-128x128.png",
@@ -86,9 +86,9 @@
         "main": true,
         "title": "Home",
         "meta_descr": "Welcome to Dat's page. - Chia sẻ kinh nghiệm về Nhân sự (HR).\n- Góc nhìn cá nhân về công việc & cuộc sống.\n- Chia sẻ khóa hóc hữu ích mang lại giá trị sống. \n- Chia sẻ sách hay, videos, phần mềm, hội thảo-sự kiện.",
-        "header_custom": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- AD horizonal -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-9968224669438386\"\n     data-ad-slot=\"3254043363\"\n     data-ad-format=\"auto\"\n     data-full-width-responsive=\"true\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
-        "footer_custom": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- AD horizonal -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-9968224669438386\"\n     data-ad-slot=\"3254043363\"\n     data-ad-format=\"auto\"\n     data-full-width-responsive=\"true\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
-        "html_before": "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<!-- AD horizonal -->\n<ins class=\"adsbygoogle\"\n     style=\"display:block\"\n     data-ad-client=\"ca-pub-9968224669438386\"\n     data-ad-slot=\"3254043363\"\n     data-ad-format=\"auto\"\n     data-full-width-responsive=\"true\"></ins>\n<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg"
       },
       "components": [
@@ -204,6 +204,29 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "HTMLCode": "Your HTML goes here. Please use the gear-icon to edit the HTML.",
+            "hideOnPublish": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "HTMLCode": "Your HTML goes here. Please use the gear-icon to edit the HTML.",
+          "alias": "witsec-custom-html",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-custom-html-block",
+          "_anchor": "witsec-custom-html-block-de"
         },
         {
           "alias": false,
@@ -10954,7 +10977,8 @@
         "meta_descr": "Cuốn tiểu sử với tiêu đề ngắn gọn “Steve Jobs” do cựu thư ký tòa soạn của tạp chí “Time”, Walter Isaacson biên soạn, dựa trên 40 cuộc phỏng vấn với Steve Jobs trong 2 năm cùng các cuộc phỏng vấn với hơn 100 người thân, bạn bè, đồng nghiệp và đối thủ của ông, khi vừa được phát hành trên Amazon đã liên tục đứng vị trí số 1 danh sách sách bán chạy nhất của cả Amazon lẫn Barnes & Nobles. Đây cũng là cuốn tiểu sử đầu tiên và duy nhất nhận được sự đồng ý của Steve Jobs. Walter Isaacson cũng là người viết tiểu sử nổi tiếng, với 2 tác phẩm viết về Benjamin Franklin và Albert Einstein.",
         "title": "Steve Jobs",
         "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/7-thi-quen-ca-ngi-thnh-t-stephen-r.-covey-550x550.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/7-thi-quen-ca-ngi-thnh-t-stephen-r.-covey-550x550.jpeg",
+        "html_before": ""
       },
       "components": [
         {
@@ -13229,7 +13253,8 @@
         "meta_descr": "Chia sẻ sách hay nên có trên kệ sách của mọi người. Tóm tắt, giới thiệu, chia sẻ gọc nhìn từ độc giả, nhận free ebooks.",
         "title": "Blog",
         "order": 1,
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1271.jpg",
+        "footer_custom": ""
       },
       "components": [
         {
