@@ -711,7 +711,7 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1280.jpeg");
+  background-color: #000000;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -1041,7 +1041,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rWKb1n7FC8 {
-  background-color: #767676;
+  background-color: #82786e;
 }
 .cid-rWKb1n7FC8 .top {
   fill: #0f7699;
@@ -1049,7 +1049,7 @@ section.lazy-placeholder:after {
 .cid-rWqE1dj3NL {
   padding-top: 0px;
   padding-bottom: 45px;
-  background: linear-gradient(45deg, #767676, #767676);
+  background: linear-gradient(45deg, #82786e, #82786e);
 }
 @media (min-width: 992px) {
   .cid-rWqE1dj3NL .mbr-figure {
@@ -1074,7 +1074,7 @@ section.lazy-placeholder:after {
   background-color: #000000;
 }
 .cid-rXgJnavVJA .top {
-  fill: #767676;
+  fill: #82786e;
 }
 .cid-rWwSIjngSD .navbar {
   padding: .5rem 0;
@@ -1582,40 +1582,18 @@ section.lazy-placeholder:after {
 .cid-rWKem2G7Pb .top {
   fill: #073b4c;
 }
-.cid-rWnEV4CU8Z {
+.cid-s2q3WMyIPL {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #ffffff);
 }
-.cid-rWnEV4CU8Z .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
+.cid-s2q3WMyIPL .mbr-text,
+.cid-s2q3WMyIPL .mbr-section-btn {
+  color: #393838;
+  text-align: left;
 }
-.cid-rWnEV4CU8Z .mbr-content-text {
-  color: #767676;
-}
-.cid-rWnEV4CU8Z .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-.cid-rWnEV4CU8Z .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
-}
-@media (max-width: 767px) {
-  .cid-rWnEV4CU8Z .card:not(.last-child) {
-    padding-bottom: 1.5rem;
-  }
-}
-.cid-rWnEV4CU8Z .img-text {
-  color: #c1c1c1;
+.cid-s2q3WMyIPL H1 {
+  color: #393838;
 }
 .cid-rWKdWaIyWz {
   background-color: #0f7699;
@@ -1623,175 +1601,65 @@ section.lazy-placeholder:after {
 .cid-rWKdWaIyWz .top {
   fill: #ffffff;
 }
-.cid-rWwOVBapZa {
-  padding-top: 0px;
+.cid-s2q3ihbQOA {
+  padding-top: 45px;
   padding-bottom: 0px;
   background: linear-gradient(45deg, #0f7699, #0f7699);
 }
 @media (min-width: 992px) {
-  .cid-rWwOVBapZa .mbr-figure {
+  .cid-s2q3ihbQOA .mbr-figure {
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rWwOVBapZa .mbr-figure {
+  .cid-s2q3ihbQOA .mbr-figure {
     padding-top: 3rem;
   }
 }
-.cid-rWwOVBapZa .mbr-text,
-.cid-rWwOVBapZa .mbr-section-btn {
+.cid-s2q3ihbQOA .mbr-text,
+.cid-s2q3ihbQOA .mbr-section-btn {
   text-align: left;
-  color: #393838;
+  color: #ffffff;
 }
-.cid-rWwOVBapZa .mbr-section-title {
+.cid-s2q3ihbQOA .mbr-section-title {
   text-align: left;
-  color: #232323;
-}
-.cid-rWKdXqBewT {
-  background-color: #cccccc;
-}
-.cid-rWKdXqBewT .top {
-  fill: #0f7699;
-}
-.cid-rWwOTKMmjM {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #cccccc, #cccccc);
-}
-@media (min-width: 992px) {
-  .cid-rWwOTKMmjM .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rWwOTKMmjM .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rWwOTKMmjM .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rWwOTKMmjM .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-rWwOTKMmjM .mbr-text,
-.cid-rWwOTKMmjM .mbr-section-btn {
-  text-align: left;
-  color: #393838;
-}
-.cid-rWwOTKMmjM .mbr-section-title {
-  text-align: left;
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rWKdXOAKln {
   background-color: #82786e;
 }
 .cid-rWKdXOAKln .top {
-  fill: #cccccc;
+  fill: #0f7699;
 }
-.cid-rWwOWm4F5b {
+.cid-s2q3l83t6z {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 45px;
   background: linear-gradient(45deg, #82786e, #82786e);
 }
 @media (min-width: 992px) {
-  .cid-rWwOWm4F5b .mbr-figure {
+  .cid-s2q3l83t6z .mbr-figure {
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rWwOWm4F5b .mbr-figure {
+  .cid-s2q3l83t6z .mbr-figure {
     padding-top: 3rem;
   }
 }
-.cid-rWwOWm4F5b .mbr-text,
-.cid-rWwOWm4F5b .mbr-section-btn {
+.cid-s2q3l83t6z .mbr-text,
+.cid-s2q3l83t6z .mbr-section-btn {
   text-align: left;
-  color: #393838;
+  color: #ffffff;
 }
-.cid-rWwOWm4F5b .mbr-section-title {
+.cid-s2q3l83t6z .mbr-section-title {
   text-align: left;
-  color: #232323;
-}
-.cid-rWKdYdTovu {
-  background-color: #eee4e4;
-}
-.cid-rWKdYdTovu .top {
-  fill: #82786e;
-}
-.cid-rWnBWn7MGP {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #eee4e4, #eee4e4);
-}
-@media (min-width: 992px) {
-  .cid-rWnBWn7MGP .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rWnBWn7MGP .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-rWnBWn7MGP .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rWnBWn7MGP .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
-.cid-rWnBWn7MGP .mbr-text,
-.cid-rWnBWn7MGP .mbr-section-btn {
-  text-align: left;
-  color: #393838;
-}
-.cid-rWnBWn7MGP .mbr-section-title {
-  text-align: left;
-  color: #232323;
-}
-.cid-rWKdZ0NEqx {
-  background-color: #ffffff;
-}
-.cid-rWKdZ0NEqx .top {
-  fill: #eee4e4;
-}
-.cid-s00CySV81c {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-s00CySV81c .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s00CySV81c .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-s00CySV81c .mbr-text,
-.cid-s00CySV81c .mbr-section-btn {
-  text-align: left;
-  color: #393838;
-}
-.cid-s00CySV81c .mbr-section-title {
-  text-align: left;
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rWKaHb4LvB {
   background-color: #000000;
 }
 .cid-rWKaHb4LvB .top {
-  fill: #ffffff;
+  fill: #82786e;
 }
 .cid-s00D1s6vPb {
   padding-top: 30px;
